@@ -1,1 +1,1 @@
-# my-git-practicez
+# my-git-practice
